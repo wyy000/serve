@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "http": "^0.0.1-security",
+    "multiparty": "^4.2.2",
+    "path": "^0.12.7"
+  }
+}
